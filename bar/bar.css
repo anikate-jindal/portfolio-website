@@ -228,3 +228,13 @@
         -webkit-transform: rotate(360deg);
     }
 }
+.anikate{
+    background-image: url(../v1/wp-content/uploads/2020/01/Anikate.jpeg);background-repeat: no-repeat;background-attachment: fixed;
+    background-size: 50% 100%;
+  }
+@media screen and (max-width: 768px) {
+     .anikate {
+        background-size: 100% 100%;
+    }
+  }
+  
